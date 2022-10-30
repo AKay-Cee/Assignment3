@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment3TabLayout</string>
+    <string name="android9">Android 9.0</string>
+    <string name="android8">Android 8.0</string>
+</resources>
